@@ -1,0 +1,2 @@
+ul.navbar-nav>li.nav-item*3>a.nav-link
+ËáÇËÉ ÇÒÑÇÑ
